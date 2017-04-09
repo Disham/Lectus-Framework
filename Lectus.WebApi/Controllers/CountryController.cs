@@ -21,5 +21,10 @@ namespace Lectus.WebApi.Controllers
         {
             return _countryService.GetAllMasterData().ToList();
         }
+
+        public ICountry Get(int id)
+        {
+            return _countryService.FindBy(c => c.Id == id).FirstOrDefault();
+        }
     }
 }
