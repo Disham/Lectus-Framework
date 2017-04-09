@@ -1,0 +1,4 @@
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Domain\bin\Debug\Lectus.Domain.dll
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Domain\bin\Debug\Lectus.Domain.pdb
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Domain\obj\Debug\Lectus.Domain.dll
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Domain\obj\Debug\Lectus.Domain.pdb

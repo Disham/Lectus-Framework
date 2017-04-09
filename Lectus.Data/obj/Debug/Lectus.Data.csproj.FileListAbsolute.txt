@@ -1,0 +1,14 @@
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\Lectus.Data.dll.config
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\Lectus.Data.dll
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\Lectus.Data.pdb
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\EntityFramework.dll
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\Lectus.Domain.dll
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\Lectus.Entity.dll
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\Lectus.Domain.pdb
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\Lectus.Entity.pdb
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\EntityFramework.xml
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\obj\Debug\Lectus.Data.csprojResolveAssemblyReference.cache
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\obj\Debug\Lectus.Data.dll
+E:\Projects\Lectus Framework VS15\LectusRetailManagement\LectusRetailManagement\Lectus.Data\obj\Debug\Lectus.Data.pdb
